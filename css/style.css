@@ -1,0 +1,106 @@
+body{
+	padding:30px 30px 30px 30px;
+}
+
+.nav-search input{
+
+		background-color: #000;
+}
+
+.nav-search button{
+	background-color: red;
+	color: #fff;
+}
+
+.nav-search button:hover {
+	color:#fff;
+	background-color: #000;
+}
+
+.nav-search button:hover #my-input {
+	background-color: #fff;
+}
+
+.social li:hover{
+	color: red;
+}
+
+
+.list-inline li:hover{
+	color: red;
+}
+
+.selector ul li{background-color: black;
+width:30px;
+height:30px;
+border-radius:30px;
+text-align: center;
+color:white;
+}
+
+.selector ul li:hover {background-color: red;}
+.selector ul li:hover a {
+	color: #fff;
+}
+
+}
+
+ #our_title p{
+	width: 400px;
+	height: auto;
+	margin-right: 400px;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+#carouselExampleIndicators img {
+height:400px;
+padding:20px;
+}
+.undertitle{
+
+	width: 400px;
+	height: auto;
+	margin-right: 200px;
+}
+
+.media-title{
+
+	color: rgb(255, 5, 63);
+}
+.about{
+	 width:600px;
+	 height: auto;
+	 margin-left: 10px;
+}
+
+.testimony{
+
+	margin-right: 200px;
+	padding-top: 20px;
+}
+
+.testo{
+
+	width: 400px;
+	height: auto;
+	margin-right: 400px;
+
+}
+
+.view{
+	text-decoration: none;
+	color: red;
+}
+
+footer{
+	padding-top: 20px;
+}
+
+
+.social-links{
+	text-decoration: none;
+	color: inherit;
+}
